@@ -45,7 +45,7 @@ Whoosh==2.6.0
 zope.interface==4.1.1
 django-guardian==1.2.5
 html2text
-html5lib==0.999
+html5lib==0.999999999
 django_pipeline==1.4.6
 jobtastic==0.2.2
 django-pipeline-rapydscript==1.0.0
